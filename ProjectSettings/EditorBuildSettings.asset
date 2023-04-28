@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/AssetsForTA/mag.unity
-    guid: 38f72e0d7f021af43a77f2e565d94700
+    path: Assets/AssetsForTA/mag2.unity
+    guid: d7fb25323371dd4419dd2a5f7b9c3a39
   m_configObjects: {}
